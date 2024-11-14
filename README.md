@@ -102,14 +102,6 @@ In the project directory, you can run:
 - All the commands except eject will still work, but they will point to the copied scripts so you can tweak them.
 
 
----
-
-## ⚠️ Known Issues
-- Limited scalability for large datasets.
-- Minor UI inconsistencies on certain resolutions.
-- Occasional delays in cart count updates.
-
----
 
 ## 🚧 Future Enhancements
 - Add real-time notifications for new orders and updates.
